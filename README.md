@@ -4,13 +4,15 @@ Convert youtube videos to mp3 and mp4 on IOS.
 The app requires node js server to download the mp4 and mp3 files, thanks to [youtube-dl-exec
 ](https://www.npmjs.com/package/youtube-dl-exec)
 
+https://github.com/DoubleNico/YoutubeFlash/assets/55035625/b325bd13-9c21-4920-a7f8-f4ae1f8fc3b7
+
 # USE IT AT YOUR OWN RISK
 
 It's against youtube TOS!
 
 # Instalation
 
-To make the software work first you need to go to backend and type this commands
+To make the software work first you need to go to backend and type these commands
 
 1. First go to backend folder and install the dependencies:
 
